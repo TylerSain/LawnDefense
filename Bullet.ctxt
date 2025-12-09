@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ This\ is\ the\ controlling\ class\ for\ the\ Bullet\ objects\ that\ interact\ with\ the\ animals\r\n\ \r\n\ @author\ Tyler\ Sain\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=Bullet()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ subBullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
